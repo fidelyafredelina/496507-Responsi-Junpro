@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5W0cjnY03DI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fredora\\source\\repos\\SimpleCRUD\\SimpleCRUD\\SimpleCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredora\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\fredora\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\fredora\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
